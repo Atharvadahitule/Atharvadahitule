@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=ATHARVA%20DAHITULE&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20•%20AI%20Engineer%20•%20Algorithm%20Evaluation&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=ATHARVA%20DAHITULE&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20•%20ML%20Engineer%20•%20Algorithm%20Evaluation&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvadahitule&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" alt="Profile Views" />
@@ -9,19 +9,13 @@
   <img src="https://img.shields.io/badge/LOCATION-GERMANY%20🇩🇪-00ff88?style=for-the-badge&labelColor=000000" alt="Location" />
 </p>
 
-</div>
 
-<br>
-
-<!-- Glitch Effect Quote -->
+<!-- Typing Effect Quote -->
 <div align="center">
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Engineering+AI+systems+that+work;Not+just+demos%2C+but+deployable+solutions;Real-world+performance+%7C+Clean+code+%7C+Measurable+results" alt="Typing SVG" />
-</h2>
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Engineering+AI+systems+that+work;Not+just+demos%2C+but+deployable+solutions;Real-world+performance;Clean+code;Measurable+results" alt="Typing SVG" />
+  </h2>
 </div>
-
-<br>
-
 ---
 
 <br>
@@ -29,41 +23,34 @@
 <!-- About Section with Terminal Style -->
 <div align="center">
 
-## 🎯 MISSION STATEMENT
+## 🎯 Mission Statement
+
+<div align="center">
 
 <table>
 <tr>
-<td>
+<td align="left" width="100%">
 
-```bash
-$ whoami
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Atharva Umesh Dahitule
-M.Sc. Mechatronics Student
+### Atharva Umesh Dahitule  
+**M.Sc. Mechatronics**
 
-🔬 Specialization:
-   → Computer Vision & 3D Perception
-   → Algorithm Evaluation & Robustness Analysis
-   → Real-Time Image Processing
-   → Sensor Fusion & Autonomous Systems
+I engineer **robust, real-world AI systems** - not prototypes.  
+My focus lies in **AI/ML, computer vision, sensor fusion, and algorithm evaluation**, where performance, reliability and measurable outcomes matter more than visual demos.
 
-📍 Based in Germany | Open to opportunities
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Current Focus Areas**
+- Deploying Machine Learning Algorithms
+- Algorithm robustness & failure analysis  
+- Real-time vision systems (30+ FPS pipelines)  
+- 3D perception using LiDAR & camera fusion  
+- Industrial and autonomous system applications  
 
-$ current_focus --show
-   [■■■■■■■■■■] Algorithm robustness & failure analysis
-   [■■■■■■■■■□] Real-time CV systems (30+ FPS)
-   [■■■■■■■■□□] 3D perception & sensor fusion
-   [■■■■■■■□□□] Industrial AI applications
-```
+📍 Germany | Open to internships, working student roles & thesis opportunities
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<br>
 
 ---
 
@@ -75,7 +62,8 @@ $ current_focus --show
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-ADVANCED-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-PROFICIENT-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=000000)
+![C](https://img.shields.io/badge/C-PROFICIENT-009C?style=for-the-badge&logo=cplusplus&logoColor=0599C&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-BEGINNER-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=000000)
 ![MATLAB](https://img.shields.io/badge/MATLAB-PROFICIENT-E16737?style=for-the-badge&logo=mathworks&logoColor=E16737&labelColor=000000)
 
 ### 🤖 AI & Computer Vision Frameworks
@@ -84,43 +72,67 @@ $ current_focus --show
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=000000)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=E70488&labelColor=000000)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-G7931E?style=for-the-badge&logo=TensorFlow&logoColor=E70488&&labelColor=000000)
 
 ### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-G7931E?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)
 
 </div>
 
 <br>
 
-<!-- Core Competencies with Icons -->
-<div align="center">
-
 ## 🎯 Core Competencies
 
-### 🔬 Computer Vision & Perception
-- Object Detection, Segmentation, Classification  
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Computer Vision
+- Object Detection & Classification  
+- Image Segmentation  
 - Camera Calibration & Depth Estimation  
-- 2D → 3D Projection, KITTI-based evaluation  
+- OpenCV, PyTorch pipelines  
+
+</td>
+<td width="50%">
 
 ### 🧠 3D Vision & Sensor Fusion
-- LiDAR Point Cloud Processing  
-- Multi-sensor calibration (Camera–LiDAR)  
-- 3D Bounding Boxes & mAP Evaluation  
+- LiDAR point cloud processing  
+- Camera–LiDAR calibration  
+- 3D bounding boxes & KITTI evaluation  
+- Multi-sensor perception systems  
 
-### ⚡ Real-Time & Performance-Critical Systems
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Real-Time Systems
 - 30+ FPS inference pipelines  
-- Latency & throughput optimization  
-- Failure case and robustness analysis  
+- Latency & performance optimization  
+- Resource-aware deployments  
 
-### 📊 Algorithm Evaluation & Engineering Rigor
-- Metric-driven evaluation (IoU, mAP, Precision–Recall)  
-- Edge-case and scenario-based testing  
-- Reproducible experimentation & benchmarking
-  
-<br>
+</td>
+<td width="50%">
+
+### 📊 Algorithm Evaluation
+- mAP, IoU, Precision–Recall metrics  
+- Robustness & edge-case analysis  
+- Reproducible benchmarking  
+- Random Forest Classifier
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
@@ -134,7 +146,7 @@ $ current_focus --show
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚗 3D Object Detection</h3>
+<h3 align="center">🚗 KITTI-360-3D-OBJECT-DETECTOR-EVALUATION</h3>
 
 <div align="center">
   
@@ -161,7 +173,7 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎯 Detection & Depth</h3>
+<h3 align="center">🎯 OBJECT-DETECTION-AND-DEPTH-ESTIMATION</h3> 
 
 <div align="center">
 
@@ -190,7 +202,7 @@ Features:
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📹 Augmented Reality</h3>
+<h3 align="center">📹 AUGMENTED-REALITY</h3>
 
 <div align="center">
 
@@ -216,7 +228,7 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎬 Video Analysis</h3>
+<h3 align="center">🎬 FACE-RECOGNITION-AND-ATTENDANCE-SYSTEM</h3>
 
 <div align="center">
 
@@ -256,33 +268,57 @@ Features:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atharvadahitule&show_icons=true&theme=dark&bg_color=000000&title_color=00ff88&text_color=ffffff&icon_color=00ff88&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=atharvadahitule&show_icons=true&theme=dark" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvadahitule&layout=compact&theme=dark&bg_color=000000&title_color=00ff88&text_color=ffffff&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atharvadahitule&layout=compact&theme=dark" />
 
 </div>
 
-<p align="center"><sub>Consistent focus on Computer Vision, AI, and system-level engineering projects.</sub></p>
+<p align="center"><sub>Consistent focus on improving skillset by solving engineering projects.</sub></p>
 
 
-<br>
-
----
-
-<br>
-
-## 🎓 CERTIFICATIONS & LEARNING
+## 🎓 Certifications & Learning
 
 <div align="center">
 
-| 📜 **Domain** | 🎯 **Focus** | ✅ **Status** |
-|:---:|:---:|:---:|
-| Machine Learning & Deep Learning | Advanced Algorithms & Neural Networks | ![Complete](https://img.shields.io/badge/COMPLETE-00ff88?style=flat-square&labelColor=000000) |
-| Computer Vision & Image Processing | Real-Time Systems & Applications | ![Complete](https://img.shields.io/badge/COMPLETE-00ff88?style=flat-square&labelColor=000000) |
-| MATLAB & Simulink | Algorithm Development & Simulation | ![Complete](https://img.shields.io/badge/COMPLETE-00ff88?style=flat-square&labelColor=000000) |
-| Data Science Foundations | Statistical Analysis & Modeling | ![Complete](https://img.shields.io/badge/COMPLETE-00ff88?style=flat-square&labelColor=000000) |
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 Machine Learning
+Advanced algorithms, neural networks, model evaluation  
+![Status](https://img.shields.io/badge/Status-Completed-00ff88?style=for-the-badge)
+
+</td>
+<td width="33%" align="center">
+
+### 👁️ Computer Vision
+Real-time image processing & perception systems  
+![Status](https://img.shields.io/badge/Status-Completed-00ff88?style=for-the-badge)
+
+</td>
+<td width="33%" align="center">
+
+### 📐 MATLAB & Simulink
+Algorithm modeling, simulation & validation  
+![Status](https://img.shields.io/badge/Status-Completed-00ff88?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+
+### 📊 Data Science Foundations  
+Statistics, data analysis & predictive modeling  
+![Status](https://img.shields.io/badge/Status-Completed-00ff88?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 <br>
 
@@ -306,6 +342,10 @@ Features:
 <a href="https://github.com/Atharvadahitule">
   <img src="https://img.shields.io/badge/GitHub-Projects_&_Code-181717?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://www.kaggle.com/atharvadahitule">
+  <img src="https://img.shields.io/badge/KAGGLE-Projects_&_Code-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000"/>
+</a>
+
 
 </div>
 
@@ -324,6 +364,6 @@ Features:
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=160&section=footer"/>
 
 </div>
