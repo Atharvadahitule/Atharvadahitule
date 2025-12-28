@@ -16,9 +16,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Engineering+AI+systems+that+work;Not+just+demos%2C+but+deployable+solutions;Real-world+performance;Clean+code;Measurable+results" alt="Typing SVG" />
   </h2>
 </div>
----
 
-<br>
 
 <!-- About Section with Terminal Style -->
 <div align="center">
@@ -356,7 +354,7 @@ Statistics, data analysis & predictive modeling
 ### 🚀 Engineering Philosophy
 
 > **Clean code. Reproducible experiments. Measurable results.**  
-> I focus on building AI systems that work beyond demos — robust, evaluable, and deployable.
+> I focus on building AI systems that work beyond demos - robust, evaluable, and deployable.
 
 ⭐ If you find my work valuable, consider starring the repositories.
 
