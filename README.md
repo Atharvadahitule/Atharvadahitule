@@ -98,43 +98,28 @@ $ current_focus --show
 <!-- Core Competencies with Icons -->
 <div align="center">
 
-### 🎯 CORE COMPETENCIES
+## 🎯 Core Competencies
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/camera.png" width="60"/>
-<br><strong>Computer Vision</strong>
-<br><sub>Object Detection</sub>
-<br><sub>Segmentation</sub>
-<br><sub>Classification</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/3d.png" width="60"/>
-<br><strong>3D Vision</strong>
-<br><sub>Point Cloud Processing</sub>
-<br><sub>Depth Estimation</sub>
-<br><sub>3D Object Detection</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/real-time-sync.png" width="60"/>
-<br><strong>Real-Time Systems</strong>
-<br><sub>30+ FPS Processing</sub>
-<br><sub>Optimization</sub>
-<br><sub>Camera Calibration</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/performance.png" width="60"/>
-<br><strong>Algorithm Analysis</strong>
-<br><sub>Performance Evaluation</sub>
-<br><sub>Robustness Testing</sub>
-<br><sub>Sensor Fusion</sub>
-</td>
-</tr>
-</table>
+### 🔬 Computer Vision & Perception
+- Object Detection, Segmentation, Classification  
+- Camera Calibration & Depth Estimation  
+- 2D → 3D Projection, KITTI-based evaluation  
 
-</div>
+### 🧠 3D Vision & Sensor Fusion
+- LiDAR Point Cloud Processing  
+- Multi-sensor calibration (Camera–LiDAR)  
+- 3D Bounding Boxes & mAP Evaluation  
 
+### ⚡ Real-Time & Performance-Critical Systems
+- 30+ FPS inference pipelines  
+- Latency & throughput optimization  
+- Failure case and robustness analysis  
+
+### 📊 Algorithm Evaluation & Engineering Rigor
+- Metric-driven evaluation (IoU, mAP, Precision–Recall)  
+- Edge-case and scenario-based testing  
+- Reproducible experimentation & benchmarking
+  
 <br>
 
 ---
@@ -266,17 +251,19 @@ Features:
 
 <br>
 
-## 📊 GITHUB STATISTICS
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharvadahitule&show_icons=true&theme=dark&bg_color=000000&title_color=00ff88&text_color=ffffff&icon_color=00ff88&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvadahitule&theme=dark&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atharvadahitule&show_icons=true&theme=dark&bg_color=000000&title_color=00ff88&text_color=ffffff&icon_color=00ff88&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvadahitule&layout=compact&theme=dark&bg_color=000000&title_color=00ff88&text_color=ffffff&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvadahitule&theme=github-dark&bg_color=000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvadahitule&layout=compact&theme=dark&bg_color=000000&title_color=00ff88&text_color=ffffff&hide_border=true" />
 
 </div>
+
+<p align="center"><sub>Consistent focus on Computer Vision, AI, and system-level engineering projects.</sub></p>
+
 
 <br>
 
@@ -303,49 +290,36 @@ Features:
 
 <br>
 
-## 🌐 CONNECT WITH ME
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/atharva-dahitule" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" height="40"/>
+<a href="https://www.linkedin.com/in/atharva-dahitule">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/atharvadahitule" target="_blank">
-  <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000" alt="Kaggle" height="40"/>
+&nbsp;
+<a href="mailto:atharvadahitule@gmail.com">
+  <img src="https://img.shields.io/badge/Email-atharvadahitule@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:atharvadahitule@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Atharvadahitule" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" height="40"/>
+&nbsp;
+<a href="https://github.com/Atharvadahitule">
+  <img src="https://img.shields.io/badge/GitHub-Projects_&_Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
+</div>
 
-### 📧 **atharvadahitule@gmail.com**
+<p align="center"><strong>Open to:</strong> Internships • Working Student Roles • Thesis Projects • Research Collaboration</p>
 
-<br>
+---
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  "Clean code, reproducible experiments, measurable results  │
-│              — not just demos, but solutions."              │
-│                                                             │
-│              🔬 Open to Collaboration                       │
-│     Internships • Working Student • Thesis Projects         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+### 🚀 Engineering Philosophy
 
-<br>
+> **Clean code. Reproducible experiments. Measurable results.**  
+> I focus on building AI systems that work beyond demos — robust, evaluable, and deployable.
 
-### ⭐ **If you find my work interesting, consider starring the repositories!**
+⭐ If you find my work valuable, consider starring the repositories.
 
-<br>
 
 </div>
 
